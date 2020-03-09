@@ -9,62 +9,61 @@ In the code, you'll see `- [ ]` you'll need to add an X like so `- [X]` to check
 ## Pull Request etiquette
 Make the Pull Request from your own GitHub account. Make sure you're changing the file in _my repo_ (not your fork). I suggest you @mention Henrique by typing @henriquedc1 in a comment within your Pull Request - so he can help troubleshoot any issues.  
 
-
 ------------
 
 # Spring 2020
 
 - [X] Wadcan, Joe (@joewadcan)
 
-- [ ] Akleh, Amir
+- [X] Akleh, Amir (@amirakleh)
 
 - [ ] Atwood, Samuel
 
-- [ ] Bai, Yan
+- [X] Bai, Yan (@ybreezy)
 
-- [ ] Basu, Debroop
+- [x] Basu, Debroop (@debasu)
 
 - [ ] Borelli, Marisa
 
-- [ ] Cabudoy, Jason
+- [x] Cabudoy, Jason (@cabudoy)
 
-- [ ] Castillo Mego, Fernando
+- [X] Castillo Mego, Fernando (@fcmego) 
 
-- [ ] Chae, Jeong Hoon
+- [X] Chae, Jeong Hoon
 
 - [ ] Chawla, Mallika
 
-- [ ] Choque, Gonzalo
+- [X] Choque, Gonzalo (@gchoque)
 
-- [ ] Du, Ha
+- [X] Du, Ha (@duhaiha)
 
 - [ ] Flaming, Jake
 
 - [ ] Gonzalez, Christian
 
-- [ ] Huang, Ding
+- [x] Huang, Ding (@kaviding)
 
-- [ ] Humenansky, Justine
+- [X] Humenansky, Justine (@jhumo) 
 
-- [ ] Jackson, Joshua
+- [X] Jackson, Joshua (@SophicDrift)
 
 - [ ] Krantz, Amanda
 
 - [ ] Kroeger, Kevin
 
-- [ ] Kryukov, Mikhail
+- [X] Kryukov, Mikhail (@mkryukove)
 
-- [ ] Lam, Brian
+- [X] Lam, Brian :smile: (@blam89)
 
-- [ ] LaReau, Seth
+- [X] LaReau, Seth (@sethlareau)
 
-- [ ] Lee, Jay
+- [X] Lee, Jay (@miyeumgong) :)
 
-- [ ] Li, Joey
+- [X] Li, Joey (@isojoey)
 
-- [ ] Li, Wei
+- [X] Li, Wei(liweiamelia)
 
-- [ ] Lutz, Esme
+- [X] Lutz, Esme (@elutz-125)
 
 - [ ] Magnani, Bernardo
 
@@ -72,38 +71,38 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Mori, Fabio
 
-- [ ] Overcash, Ryan
+- [x] Overcash, Ryan (@ryovercash) :boom:
 
 - [ ] Price, Andrew
 
 - [ ] Purak, Amina
 
-- [ ] Pushkin, Daniil
+- [X] Pushkin, Daniil (@stalerat) 🐈
 
-- [ ] Ray, Saurav
+- [X] Ray, Saurav (@sauravrayberkeley) :sunglasses:
 
-- [ ] Ryu, Sam
+- [X] Ryu, Sam (@samryu777)
 
 - [X] Sepielli, Joshua (@joshuasepielli) :dog2:
 
-- [ ] Sherpa, Nima
+- [x] Sherpa, Nima (@Sherpa2020) :dog::angry:
 
-- [ ] Shintre, Amit
+- [x] Shintre, Amit (@giantasparagus)
 
-- [ ] Smith, Sam
+- [x] Smith, Sam (@smudger89)  
 
 - [x] Sobral, Cynthia
 
-- [ ] Sorensen, Eric
+- [x] Sorensen, Eric (@eric-sorensen)
 
-- [ ] Tran, William
+- [X] Tran, William (@williamtranHaas) :smiley:
 
 - [ ] Twedell, M. Ryan
 
-- [ ] Walker, Michael
+- [X] Walker, Michael (@MWalkerBerk)
 
-- [ ] White, Teddy
+- [X] White, Teddy (@teddywhitest)
 
-- [ ] Zanina, Evgeniia
+- [X] Zanina, Evgeniia (@ezanina) :hello:
 
 - [X] Zhalel, Maksat (@mckenzz) :blush:
