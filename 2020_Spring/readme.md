@@ -16,51 +16,51 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Wadcan, Joe (@joewadcan)
 
-- [ ] Akleh, Amir
+- [X] Akleh, Amir (@amirakleh)
 
 - [ ] Atwood, Samuel
 
 - [ ] Bai, Yan
 
-- [ ] Basu, Debroop
+- [x] Basu, Debroop (@debasu)
 
 - [ ] Borelli, Marisa
 
-- [ ] Cabudoy, Jason
+- [x] Cabudoy, Jason (@cabudoy)
 
-- [ ] Castillo Mego, Fernando
+- [X] Castillo Mego, Fernando (@fcmego) 
 
 - [ ] Chae, Jeong Hoon
 
 - [ ] Chawla, Mallika
 
-- [ ] Choque, Gonzalo
+- [X] Choque, Gonzalo (@gchoque)
 
-- [ ] Du, Ha
+- [X] Du, Ha (@duhaiha)
 
 - [ ] Flaming, Jake
 
 - [ ] Gonzalez, Christian
 
-- [ ] Huang, Ding
+- [x] Huang, Ding (@kaviding)
 
 - [ ] Humenansky, Justine
 
-- [ ] Jackson, Joshua
+- [X] Jackson, Joshua (@SophicDrift)
 
 - [ ] Krantz, Amanda
 
 - [ ] Kroeger, Kevin
 
-- [ ] Kryukov, Mikhail
+- [X] Kryukov, Mikhail (@mkryukove)
 
-- [ ] Lam, Brian
+- [X] Lam, Brian :smile: (@blam89)
 
-- [ ] LaReau, Seth
+- [X] LaReau, Seth
 
 - [ ] Lee, Jay
 
-- [ ] Li, Joey
+- [X] Li, Joey (@isojoey)
 
 - [ ] Li, Wei
 
@@ -72,38 +72,38 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Mori, Fabio
 
-- [ ] Overcash, Ryan
+- [x] Overcash, Ryan (@ryovercash) :boom:
 
 - [ ] Price, Andrew
 
 - [ ] Purak, Amina
 
-- [ ] Pushkin, Daniil
+- [X] Pushkin, Daniil (@stalerat) 🐈
 
-- [ ] Ray, Saurav
+- [X] Ray, Saurav (@sauravrayberkeley) :sunglasses:
 
 - [ ] Ryu, Sam
 
 - [X] Sepielli, Joshua (@joshuasepielli) :dog2:
 
-- [ ] Sherpa, Nima
+- [x] Sherpa, Nima (@Sherpa2020)
 
-- [ ] Shintre, Amit
+- [x] Shintre, Amit (@giantasparagus)
 
-- [ ] Smith, Sam
+- [x] Smith, Sam (@smudger89)  
 
 - [x] Sobral, Cynthia
 
-- [ ] Sorensen, Eric
+- [x] Sorensen, Eric (@eric-sorensen)
 
-- [ ] Tran, William
+- [X] Tran, William (@williamtranHaas) :smiley:
 
 - [ ] Twedell, M. Ryan
 
 - [ ] Walker, Michael
 
-- [ ] White, Teddy
+- [X] White, Teddy (@teddywhitest)
 
-- [ ] Zanina, Evgeniia
+- [X] Zanina, Evgeniia (@ezanina) :hello:
 
-- [ ] Zhalel, Maksat
+- [X] Zhalel, Maksat (@mckenzz) :blush:
